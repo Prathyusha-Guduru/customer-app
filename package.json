@@ -1,0 +1,22 @@
+{
+  "name": "customer-app",
+  "version": "1.0.0",
+  "description": "trail customer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathyusha-Guduru/customer-app.git"
+  },
+  "author": "Prathyusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prathyusha-Guduru/customer-app/issues"
+  },
+  "homepage": "https://github.com/Prathyusha-Guduru/customer-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
